@@ -6,6 +6,13 @@ A web app for applying the visual style of one image to the content of another. 
 
 The repository includes example input and output images in [`Demo_IO_Images`](Demo_IO_Images/) and a browser interface for trying your own images.
 
+### Web app screenshots
+
+<p align="center">
+  <img src="Screenshot%202026-10-29%20194456.png" alt="NeuralArt upload screen" width="49%">
+  <img src="Screenshot%202026-10-29%20194516.png" alt="NeuralArt style transfer result" width="49%">
+</p>
+
 | Content | Style reference | Result |
 | --- | --- | --- |
 | ![Portrait content image](NST_Code/examples/brad_pitt.jpg) | ![Sketch style reference](NST_Code/examples/sketch.png) | ![Stylized portrait result](NST_Code/examples/stylized_brad_pitt.jpg) |
